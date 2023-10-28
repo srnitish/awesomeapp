@@ -1,0 +1,24 @@
+label {
+    font-size: 14px;
+}
+
+.nav-pad {
+    padding: 0 0px 0 20px;
+    padding: 5px 0px 8px 20px;
+}
+
+.switch-wd {
+    width: 18%;
+    line-height: 20px;
+}
+
+
+/* @media (max-width: 620px) {
+    .switch-wd {
+        line-height: 22px;
+        display: flex;
+        justify-content: flex-end;
+        width: 90%;
+        margin: -37px 0px 0 0px;
+    }
+} */
